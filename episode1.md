@@ -13,7 +13,7 @@ ADAM and CARL are sitting in opposing cubicles working on their
 computer.
 
                       CARL
-          Stop look at my computer screen,
+          Stop looking at my computer screen,
           Adam.
 
                       ADAM
