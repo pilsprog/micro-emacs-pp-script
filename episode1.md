@@ -1,4 +1,5 @@
 ```
+
 Episode 1
 
 Untitled
@@ -13,89 +14,55 @@ ADAM and CARL are sitting in opposing cubicles working on their
 computer.
 
                       CARL
-          Stop looking at my computer screen,
-          Adam.
+          Stop looking at my screen, Adam,
+          ok.
 
                       ADAM
-          I am not looking at your computer
-          screen.
+          I am not looking at your screen,
+          Carl.
 
                       CARL
           Look, I can see you looking at my
-          computer screen, don't deny it, ok,
-          this is very important..
-
-CARL and ADAM interrupts each other, ADAM is annoyed that he
-isn't getting any work done.
+          screen, don't deny it, ok, this is
+          very important... ok.
 
                       ADAM
           I am just trying to work here, I am
-          _not_ looking at your computer
-          screen, It just so happens to be in
-          my field of view...
+          _not_ looking at your screen, It
+          just so happens to be in my field
+          of view.
 
                       CARL
           I just don't like it when people
           look at my code, ok, this is very
-          sensitive work I am doing here...
+          sensitive work. Zygomatic
+          endomorphisms are really hard to
+          reason about, and plug-ins are only
+          co-applicative functors and not
+          full-fledged co-monads ...
+
+                (Adam interrupts)
 
                       ADAM
-          I don't care about your dumb plug
-          in CARL, I just need to get this
-          done by tomorrow.
+          Carl, Carl, Carl! I don't care
+          about your stupid plug-in. I just
+          need to get this done by tomorrow.
 
                       CARL
           WoW WOW wOw wow. When this plug-in
           is done it is going to blow your
           mind, ok. It's going to be
-          inception _all_ over again...
+          inception _all_ over again.
 
                       ADAM
                 (angry)
           The plug-in interface isn't even
-          done yet carl!
+          done yet, Carl!
 
                       CARL
           Blow.... your mind... ok.
-
-                      ADAM 
-                (angry, louder)
-          Nobody even knows what this pile of
-          shit you have been working on all
-          this time is supposed to do carl.
-
-                      CARL
+                (Small silence)
           You wouldn't understand.
 
-                      ADAM
-                (ADAM is still a bit pissed)
-          No.. No.. Tell me, what is it that
-          you have been wasting
-          everybodystime all year doing.
-
-                      CARL
-          Well... Ok, then... Its actually
-          quite web 2.0, you know... Its this
-          thing to share small messages and
-          pictures with each other, and
-          remind them of birthdays and stuff
-          like that.
-
-                      ADAM
-          So its facebook.
-
-                      CARL
-          No, no, no, its all inside
-          micro-emacs and you can share...
-          
-                      ADAM
-          So it's facebook for the text
-          editor?
-                
-                (Short silence)
-
-                      CARL
-          I bet Marc Zuckerberg didn't have
-          to take this kind of assholery...
 
 ```
